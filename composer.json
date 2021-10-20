@@ -1,13 +1,13 @@
 {
     "name": "poojapardeshi/test-package",
-    "description": "Bloomreach connector for autosuggest,collection and product search",
+    "description": "connector for autosuggest,collection and product search",
     "version": "1.1.0",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Bloomreach Inc.",
-            "email": "support@bloomreach.com"
+            "name": "Test",
+            "email": "pvpardeshi35@gmail.com"
         }
     ],
     "require": {
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Bloomreach\\Connector\\": ""
+            "Test\\Check\\": ""
         }
     },
     "minimum-stability": "dev",

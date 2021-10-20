@@ -1,7 +1,7 @@
 {
     "name": "poojapardeshi/test-package",
     "description": "connector for autosuggest,collection and product search",
-    "version": "1.2.0",
+    "version": "dev-main",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
